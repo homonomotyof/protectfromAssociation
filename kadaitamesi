@@ -1,0 +1,67 @@
+.body{
+  background-color: #EAD9FF;
+}
+.text_main{
+  padding: 10px;
+}
+
+.title_img{
+  transform: rotate(-25deg);
+  position: absolute;
+  top: -35px;
+  left: -25px;
+}
+
+.title{
+  margin-left: 20px;
+  width: 600px;
+  margin-top: 40px;
+  border: 5px outset; 
+  color: #fffff;
+  font-size: 59px;
+  font-family: 装甲明朝;
+  background-color:#ffffff;
+  position: relative;
+}
+.title_color{
+  background-color: #000000;
+  padding: 10px;
+  margin: 0px;
+  width: 100%;
+
+}
+.subtitle{
+  border-left: solid 10px black;
+  padding-left: 3px;
+  font-size: 40px;
+  font-family: 装甲明朝;
+  background-color: #ffffff;
+}
+.text{
+  font-size: 20px;
+  font-family: 装甲明朝;
+  padding: 5px;
+}
+.onebrock{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.type{
+  font-size: 25px;
+  font-family: 装甲明朝;
+  border-top: solid 1px black;
+  border-bottom: solid 1px black;
+  padding-left: 10px;
+  background-color: #ffffff;
+}
+.list{
+  font-family: 装甲明朝;
+  font-size; 20px; 
+  list-style-type: decimal;-
+}
+.footer{
+  font-size: 10px;
+  font-family: 装甲明朝;
+  background-color: black;
+  color: white;
+}
