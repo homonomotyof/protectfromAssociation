@@ -1,3 +1,7 @@
+@font-face {
+font-family: '装甲明朝';
+src: url("https://github.com/homonomotyof/protectfromAssociation/kadaitamesi.css");
+}
 .body{
   background-color: #EAD9FF;
 }
